@@ -1,5 +1,5 @@
-####cloudvations
+####Cloudvations
 
-*hunter husar*
+*Hunter Husar*
 
 Blah Blah Blah
